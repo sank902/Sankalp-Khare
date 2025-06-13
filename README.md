@@ -1,31 +1,56 @@
-<h1 align="center">Hi 👋, I'm Sankalp Khare</h1>
-<h3 align="center">A passionate developer and open-source contributor</h3>
+<!-- Header -->
+<h1 align="center">Hey there 👋, I'm <span style="color:#4e9eff;">Sankalp Khare</span></h1>
+<h3 align="center">🚀 Developer | 💻 Open Source Enthusiast | 🧠 Lifelong Learner</h3>
 
-- 🔭 I’m currently working on **open-source and personal web projects**
-- 🌱 I’m learning **DSA in C++, Web Dev & Git/GitHub**
-- 👯 I’m looking to collaborate on **open-source GitHub projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, Git, and C++**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yourprofile) | sankalp@example.com
+<p align="center">
+  <a href="https://github.com/sankalpkhare"><img src="https://img.shields.io/github/followers/sankalpkhare?label=Follow&style=social" alt="GitHub Followers"></a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🌱 About Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+- 🔭 I’m currently working on **Web Projects + Open Source**
+- 💡 Exploring **Frontend Dev**, **DSA in C++**, and GitHub Flow
+- 🤝 Looking to collaborate on beginner-friendly **open source repos**
+- 📬 Reach me: sankalp@example.com or [LinkedIn](https://www.linkedin.com/in/yourprofile)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,git,github,vscode" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sankalpkhare&show_icons=true&theme=tokyonight&hide=issues" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sankalpkhare&theme=tokyonight" height="165" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpkhare&layout=compact&theme=tokyonight" height="130"/>
+</div>
+
+---
+
+### 🔗 Projects & Contributions
+
+- 💼 [CourseCampare](https://github.com/sankalpkhare/coursecampare): Course Comparison Web App (HTML/CSS/JS)
+- 🌐 [Cloth Donation Site](https://github.com/sankalpkhare/cloth-donation): NGO support platform for old clothes
+- 📚 More projects coming soon!
+
+---
+
+### ❤️ Let's Connect
+
+If you're into web dev, DSA, GitHub, or open-source collabs — let's work together!
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sankalpkhare&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpkhare&theme=radical" />
+  <a href="mailto:sankalp@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/sankalpkhare"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-# Sankalp-Khare
